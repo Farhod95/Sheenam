@@ -1,5 +1,7 @@
 # Sheenam Student API 🎓
-[![Video ko'rish](https://cdn.loom.com/sessions/thumbnails/c958f1210ae241d9ad6481300483477b-with-play.gif)](https://www.loom.com/share/c958f1210ae241d9ad6481300483477b)
+
+## 📺 Demo Video
+Loyiha qanday ishlashini va API so'rovlarini Postmanda qanday yuborishni ushbu video orqali ko'rishingiz mumkin: [Loom Video Demo](https://www.loom.com/share/c958f1210ae241d9ad6481300483477b)
 
 *Loyiha qanday ishlashini ko'rish uchun rasm ustiga bosing.*
 Ushbu loyiha talabalar ma'lumotlarini (CRUD) boshqarish uchun yaratilgan **ASP.NET Core Web API** hisoblanadi. Loyiha **Entity Framework Core** va **SQL Server (LocalDB)** bilan integratsiya qilingan.
